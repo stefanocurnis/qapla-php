@@ -1,5 +1,5 @@
 {
-    "name": "maioradv/qapla",
+    "name": "stefanocurnis/qapla-php",
     "type": "library",
     "description": "Package to integrate Qapla API functionalities in your web application.",
     "keywords": [
